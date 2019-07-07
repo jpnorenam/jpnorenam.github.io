@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Resumé"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,21 +11,19 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Electrical Engineering, Universidad Nacional de Colombia, 2020 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Feb 2018 - Dic 2018: Research Assistant
+  * Laboratorio de gestión de sistemas en tiempo-real
+  * Duties included: Implementation of an online state estimator for the Colombian national power system operator -XM S.A E.S.P-
+  * Supervisor: Jairo Espinosa
 
 * Fall 2015: Research Assistant
   * Github University
   * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Supervisor: Ernesto Pérez
   
 Skills
 ======
