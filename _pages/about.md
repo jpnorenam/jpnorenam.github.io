@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently an electrical engineering student at [Universidad Nacional de Colombia Sede Medellin](http://medellin.unal.edu.co/) crossing the last year of the program. I am affiliated with [Laboratory of real-time systems management](https://sites.google.com/unal.edu.co/lab-gstr). In the laboratory I have been working in lightning monitoring, wide-area power systems monitoring, cosimulation and traffic.
+I am currently an electrical engineering student at [Universidad Nacional de Colombia Sede Medellin](http://medellin.unal.edu.co/) crossing the last year of the program. I am affiliated with [Laboratory of real-time systems management](https://sites.google.com/unal.edu.co/lab-gstr). In the laboratory I have been reasearching and working topics related with in cosimulation, risk assesment due to lightning and wide-area monitoring in power systems, and traffic control.
 
 A data-driven personal website
 ======
