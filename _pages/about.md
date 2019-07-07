@@ -15,3 +15,6 @@ I am affiliated with [Laboratory of real-time systems management](https://sites.
 
 Current research projects
 ------
+* Online Risk Assessment of Power System Transmission Lines Based on Multivariate Analysis of Lightning and Weather Data
+* A Software-in-the-Loop Testbed Platform Implementation for New PMU-Based Wide Area Control Strategies for Future System Operation
+* Real-time cosimulation laboratory for "Energética 2030"
