@@ -31,7 +31,7 @@ Skills
   * Grid Solution Framework
   * ILNumerics
   * AlgLib
-* C/C++ 
+* C/C++ [=100%]{: .thin}
   * Linux PREEMPT_RT real-time aplications
   * POSIX API
   * MPI
