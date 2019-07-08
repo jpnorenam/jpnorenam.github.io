@@ -27,12 +27,14 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* .NET Framework (C#)
+  * Grid Solution Framework
+  * openHistorian2
+* C/C++ 
+  * Linux PREEMPT_RT real-time aplicacitions
+  * POSIX API
+  * MPI
+* Python
 
 Publications
 ======
