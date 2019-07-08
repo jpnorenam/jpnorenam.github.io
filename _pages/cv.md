@@ -20,7 +20,7 @@ redirect_from:
   height: 5px;
   background-color: #4CAF50;
   text-align: center;
-  line-height: 30px;
+  line-height: 10px;
   color: white;
 }
 
@@ -29,7 +29,7 @@ redirect_from:
   height: 5px;
   background-color: #4CAF50;
   text-align: center;
-  line-height: 30px;
+  line-height: 5px;
   color: white;
 }
 
