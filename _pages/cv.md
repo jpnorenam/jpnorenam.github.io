@@ -121,7 +121,7 @@ Skills
 </html>
 
 * C/C++
-  * Linux PREEMPT_RT real-time aplications
+  * Linux PREEMPT_RT real-time applications
   * POSIX API
   * MPI
 <html>
