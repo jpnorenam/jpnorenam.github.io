@@ -13,7 +13,7 @@ I am currently an electrical engineering student at [Universidad Nacional de Col
 
 I am affiliated with [Laboratory of real-time systems management](https://sites.google.com/unal.edu.co/lab-gstr). I have been working under the direction of [Prof. Ernesto Pérez](https://scholar.google.es/citations?user=tUz1sE0AAAAJ&hl=es&oi=sra) and [Prof. Jairo Espinosa](https://scholar.google.es/citations?user=DhYW97UAAAAJ&hl=es&oi=sra) in research projects related with real-time cosimulation, risk assessment due to lightning and wide-area monitoring of power systems, and urban traffic control.
 
-[Full resumé](https://jpnorenam.github.io/cv/)
+Here is my [full resumé](https://jpnorenam.github.io/cv/)
 
 Current research projects
 ------
