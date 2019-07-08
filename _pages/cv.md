@@ -11,13 +11,13 @@ redirect_from:
 <html>
 <style>
 #myProgress {
-  width: 100%;
+  width: 20%;
   background-color: #ddd;
 }
 
-#myBar {
-  width: 25%;
-  height: 30px;
+#netframework {
+  width: 75%;
+  height: 5px;
   background-color: #4CAF50;
   text-align: center;
   line-height: 30px;
@@ -44,20 +44,19 @@ Work experience
   
 Skills
 ======
+
+* C#/.NET Framework
 <html>
 <body> 
 <div id="myProgress">
-  <div id="myBar"></div>
+  <div id="netframework"></div>
 </div>
 </body>
 </html>
-
-* C#/.NET Framewor
   * Grid Solution Framework
   * ILNumerics
   * Alglib
-
-[=100%]{: .thin}
+  
 * C/C++
   * Linux PREEMPT_RT real-time aplications
   * POSIX API
