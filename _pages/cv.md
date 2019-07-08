@@ -8,6 +8,23 @@ redirect_from:
 ---
 
 {% include base_path %}
+<html>
+<style>
+#myProgress {
+  width: 100%;
+  background-color: #ddd;
+}
+
+#myBar {
+  width: 25%;
+  height: 30px;
+  background-color: #4CAF50;
+  text-align: center;
+  line-height: 30px;
+  color: white;
+}
+</style>
+</html>
 
 Education
 ======
@@ -28,7 +45,12 @@ Work experience
 Skills
 ======
 
-[=100%]{: .thin}
+<body> 
+<div id="myProgress">
+  <div id="myBar"></div>
+</div>
+</body>
+
 * C#/.NET Framewor
   * Grid Solution Framework
   * ILNumerics
@@ -66,30 +88,3 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
-
-<html>
-<style>
-#myProgress {
-  width: 100%;
-  background-color: #ddd;
-}
-
-#myBar {
-  width: 25%;
-  height: 30px;
-  background-color: #4CAF50;
-  text-align: center;
-  line-height: 30px;
-  color: white;
-}
-</style>
-<body>
-
-<h1>JavaScript Progress Bar</h1>
-
-<div id="myProgress">
-  <div id="myBar"></div>
-</div>
-
-</body>
-</html>
