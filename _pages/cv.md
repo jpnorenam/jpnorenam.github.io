@@ -35,7 +35,7 @@ Skills
   * Linux PREEMPT_RT real-time aplications
   * POSIX API
   * MPI
-* Python
+* Python [#####.....]
 * openHistorian2
 * PowerFactory
 * PSCAD
