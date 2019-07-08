@@ -36,7 +36,10 @@ Skills
   * POSIX API
   * MPI
 * Python
-
+* openHistorian2
+* PowerFactory
+* PSCAD
+* OPAL RT-LAB
 Publications
 ======
   <ul>{% for post in site.publications %}
