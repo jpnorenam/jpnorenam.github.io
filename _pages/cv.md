@@ -27,9 +27,10 @@ Work experience
   
 Skills
 ======
-* .NET Framework (C#)
+* C# | .NET Framework
   * Grid Solution Framework
-  * openHistorian2
+  * ILNumerics
+  * AlgLib
 * C/C++ 
   * Linux PREEMPT_RT real-time aplicacitions
   * POSIX API
