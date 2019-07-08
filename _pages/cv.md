@@ -101,7 +101,7 @@ Work experience
   * Duties included: Implementation of an online non-linear state estimator for the Colombian national power system operator -XM S.A E.S.P-.
   * Supervisor: Jairo Espinosa
 
-* jun 2018 - present: Research Assistant
+* jun 2019 - present: Research Assistant
   * Laboratorio de gestión de sistemas en tiempo-real
   * **Energética 2030 Cosimulation Laboratory**
   * Duties included: Integration of several node in the development of the cosimulation laboratory for the scientific ecosystem.
