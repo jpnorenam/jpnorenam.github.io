@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* **B.S. in Electrical Engineering**, Universidad Nacional de Colombia, 2020 (expected) *GPA: 4.3/5.0*
+* **B.S. in Electrical Engineering**, Universidad Nacional de Colombia, 2020 (expected). *GPA: 4.3/5.0*
 
 Work experience
 ======
