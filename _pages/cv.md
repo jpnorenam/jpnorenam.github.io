@@ -27,17 +27,14 @@ Work experience
   
 Skills
 ======
-* C#/.NET Framework
 
 [=100%]{: .thin}
-
+* C#/.NET Framewor
   * Grid Solution Framework
   * ILNumerics
   * AlgLib
-* C/C++
-
 [=100%]{: .thin}
-
+* C/C++
   * Linux PREEMPT_RT real-time aplications
   * POSIX API
   * MPI
