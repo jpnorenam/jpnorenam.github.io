@@ -20,13 +20,13 @@ redirect_from:
   height: 5px;
   background-color: #4CAF50;
   text-align: center;
-  line-height: 10px;
+  line-height: 30px;
   color: white;
 }
 
 #cpp {
   width: 55%;
-  height: 5px;
+  height: 30px;
   background-color: #4CAF50;
   text-align: center;
   line-height: 5px;
