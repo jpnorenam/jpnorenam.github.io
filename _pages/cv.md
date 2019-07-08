@@ -40,6 +40,7 @@ Skills
 * PowerFactory
 * PSCAD
 * OPAL RT-LAB
+
 Publications
 ======
   <ul>{% for post in site.publications %}
