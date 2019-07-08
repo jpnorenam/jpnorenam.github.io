@@ -44,12 +44,13 @@ Work experience
   
 Skills
 ======
-
+<html>
 <body> 
 <div id="myProgress">
   <div id="myBar"></div>
 </div>
 </body>
+</html>
 
 * C#/.NET Framewor
   * Grid Solution Framework
