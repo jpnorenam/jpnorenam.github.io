@@ -32,7 +32,8 @@ Skills
 * C#/.NET Framewor
   * Grid Solution Framework
   * ILNumerics
-  * AlgLib
+  * Alglib
+
 [=100%]{: .thin}
 * C/C++
   * Linux PREEMPT_RT real-time aplications
