@@ -35,21 +35,11 @@ Skills
   * Linux PREEMPT_RT real-time aplications
   * POSIX API
   * MPI
-* Python [#####.....]
+* Python 
 * openHistorian2
 * PowerFactory
 * PSCAD
 * OPAL RT-LAB
-
-    ```
-    [=0%]{: .thin}
-    [=5%]{: .thin}
-    [=25%]{: .thin}
-    [=45%]{: .thin}
-    [=65%]{: .thin}
-    [=85%]{: .thin}
-    [=100%]{: .thin}
-    ```
 
 Publications
 ======
