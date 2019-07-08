@@ -26,10 +26,10 @@ redirect_from:
 
 #cpp {
   width: 55%;
-  height: 30px;
+  height: 5px;
   background-color: #4CAF50;
   text-align: center;
-  line-height: 5px;
+  line-height: 30px;
   color: white;
 }
 
