@@ -11,12 +11,75 @@ redirect_from:
 <html>
 <style>
 #myProgress {
-  width: 30%;
+  width: 40%;
   background-color: #ddd;
 }
 
 #netframework {
+  width: 80%;
+  height: 5px;
+  background-color: #4CAF50;
+  text-align: center;
+  line-height: 30px;
+  color: white;
+}
+
+#cpp {
+  width: 55%;
+  height: 5px;
+  background-color: #4CAF50;
+  text-align: center;
+  line-height: 30px;
+  color: white;
+}
+
+#python {
+  width: 70%;
+  height: 5px;
+  background-color: #4CAF50;
+  text-align: center;
+  line-height: 30px;
+  color: white;
+}
+
+#matlab {
+  width: 60%;
+  height: 5px;
+  background-color: #4CAF50;
+  text-align: center;
+  line-height: 30px;
+  color: white;
+}
+
+#openHistorian2 {
   width: 75%;
+  height: 5px;
+  background-color: #4CAF50;
+  text-align: center;
+  line-height: 30px;
+  color: white;
+}
+
+#powerfactory {
+  width: 35%;
+  height: 5px;
+  background-color: #4CAF50;
+  text-align: center;
+  line-height: 30px;
+  color: white;
+}
+
+#pscad {
+  width: 40%;
+  height: 5px;
+  background-color: #4CAF50;
+  text-align: center;
+  line-height: 30px;
+  color: white;
+}
+
+#opal {
+  width: 40%;
   height: 5px;
   background-color: #4CAF50;
   text-align: center;
@@ -45,6 +108,10 @@ Work experience
 Skills
 ======
 
+* C#\.NET Framework
+  * Grid Solution Framework
+  * ILNumerics
+  * Alglib 
 <html>
 <body> 
 <div id="myProgress">
@@ -52,27 +119,74 @@ Skills
 </div>
 </body>
 </html>
-* C#\.NET Framework
-  * Grid Solution Framework
-  * ILNumerics
-  * Alglib
- 
- <html>
-<body> 
-<div id="myProgress">
-  <div id="netframework"></div>
-</div>
-</body>
-</html>
+
 * C/C++
   * Linux PREEMPT_RT real-time aplications
   * POSIX API
   * MPI
-* Python 
-* openHistorian2
-* PowerFactory
-* PSCAD
+<html>
+<body> 
+<div id="myProgress">
+  <div id="cpp"></div>
+</div>
+</body>
+</html> 
+ 
+* Python
+<html>
+<body> 
+<div id="myProgress">
+  <div id="python"></div>
+</div>
+</body>
+</html>
+
+* Matlab/Simulink
+<html>
+<body> 
+<div id="myProgress">
+  <div id="matlab"></div>
+</div>
+</body>
+</html>
+
 * OPAL RT-LAB
+<html>
+<body> 
+<div id="myProgress">
+  <div id="opal"></div>
+</div>
+</body>
+</html>
+
+* PowerFactory
+<html>
+<body> 
+<div id="myProgress">
+  <div id="powerfactory"></div>
+</div>
+</body>
+</html>
+
+* openHistorian2
+<html>
+<body> 
+<div id="openHistorian2">
+  <div id="python"></div>
+</div>
+</body>
+</html>
+
+* PSCAD
+<html>
+<body> 
+<div id="pscad">
+  <div id="python"></div>
+</div>
+</body>
+</html>
+
+
 
 Publications
 ======
@@ -85,13 +199,3 @@ Talks
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
