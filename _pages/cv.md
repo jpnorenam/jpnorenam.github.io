@@ -32,7 +32,7 @@ Skills
   * ILNumerics
   * AlgLib
 * C/C++ 
-  * Linux PREEMPT_RT real-time aplicacitions
+  * Linux PREEMPT_RT real-time aplications
   * POSIX API
   * MPI
 * Python
