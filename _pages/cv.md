@@ -108,7 +108,7 @@ Work experience
 Skills
 ======
 
-* C#.NET Framework
+* C#/.NET Framework
   * Grid Solution Framework
   * ILNumerics
   * Alglib 
