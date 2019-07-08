@@ -45,14 +45,14 @@ Work experience
 Skills
 ======
 
-* C#/.NET Framework
-<html>
+* <html>
 <body> 
 <div id="myProgress">
-  <div id="netframework"></div>
+  <div id="netframework">C#\.NET Framework</div>
 </div>
 </body>
 </html>
+
   * Grid Solution Framework
   * ILNumerics
   * Alglib
