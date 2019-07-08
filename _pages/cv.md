@@ -108,7 +108,7 @@ Work experience
 Skills
 ======
 
-* C#\.NET Framework
+* C#.NET Framework
   * Grid Solution Framework
   * ILNumerics
   * Alglib 
@@ -171,8 +171,8 @@ Skills
 * openHistorian2
 <html>
 <body> 
-<div id="openHistorian2">
-  <div id="python"></div>
+<div id="myProgress">
+  <div id="openHistorian2"></div>
 </div>
 </body>
 </html>
@@ -180,8 +180,8 @@ Skills
 * PSCAD
 <html>
 <body> 
-<div id="pscad">
-  <div id="python"></div>
+<div id="myProgress">
+  <div id="pscad"></div>
 </div>
 </body>
 </html>
