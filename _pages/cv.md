@@ -95,14 +95,16 @@ Education
 
 Work experience
 ======
-* Feb 2018 - Dic 2018: Research Assistant
+* feb 2018 - dic 2018: Research Assistant
   * Laboratorio de gestión de sistemas en tiempo-real
-  * Duties included: Implementation of an online state estimator for the Colombian national power system operator -XM S.A E.S.P-
+  * **Real-time Power System State Estimator **
+  * Duties included: Implementation of an online non-linear state estimator for the Colombian national power system operator -XM S.A E.S.P-.
   * Supervisor: Jairo Espinosa
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
+* jun 2018 - present: Research Assistant
+  * Laboratorio de gestión de sistemas en tiempo-real
+  * **Energética 2030 Cosimulation Laboratory**
+  * Duties included: Integration of several node in the development of the cosimulation laboratory for the scientific ecosystem.
   * Supervisor: Ernesto Pérez
   
 Skills
@@ -182,7 +184,7 @@ Skills
 <body> 
 <div id="myProgress">
   <div id="pscad"></div>
-  <div style='margin-bottom: 10px;'></div>
+  <div style="margin-bottom: 40px;"></div>
 </div>
 </body>
 </html>
