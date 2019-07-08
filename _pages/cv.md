@@ -11,7 +11,7 @@ redirect_from:
 <html>
 <style>
 #myProgress {
-  width: 20%;
+  width: 30%;
   background-color: #ddd;
 }
 
@@ -45,18 +45,25 @@ Work experience
 Skills
 ======
 
-* <html>
+<html>
 <body> 
 <div id="myProgress">
-  <div id="netframework">C#\.NET Framework</div>
+  <div id="netframework"></div>
 </div>
 </body>
 </html>
-
+* C#\.NET Framework
   * Grid Solution Framework
   * ILNumerics
   * Alglib
-  
+ 
+ <html>
+<body> 
+<div id="myProgress">
+  <div id="netframework"></div>
+</div>
+</body>
+</html>
 * C/C++
   * Linux PREEMPT_RT real-time aplications
   * POSIX API
