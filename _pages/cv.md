@@ -27,7 +27,7 @@ Work experience
   
 Skills
 ======
-* C#/.NET Framework
+* C#/.NET Framework [=100%]{: .thin}
   * Grid Solution Framework
   * ILNumerics
   * AlgLib
