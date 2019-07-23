@@ -95,17 +95,24 @@ Education
 
 Work experience
 ======
-* *feb 2018 - dic 2018: Research Assistant*
+* *february 2018 - december 2018: Research Assistant*
   * Laboratorio de gestión de sistemas en tiempo-real
-  * **Real-time Power System State Estimator**
+  * **Real-Time Power System State Estimator**
   * Duties included: Implementation of an online non-linear state estimator for the Colombian national power system operator -XM S.A E.S.P-.
   * Supervisor: Jairo Espinosa
 
-* *jun 2019 - present: Research Assistant*
+* *junary 2019 - present: Research Assistant*
   * Laboratorio de gestión de sistemas en tiempo-real
   * **Energética 2030 Cosimulation Laboratory**
   * Duties included: Integration of several node in the development of the cosimulation laboratory for the scientific ecosystem.
   * Supervisor: Ernesto Pérez
+  
+
+* *july 2019 - present: Research Assistant*
+  * Laboratorio de gestión de sistemas en tiempo-real
+  * **Real-Time Traffic Light Optimization in Urban Intersecction**
+  * Duties included: Development and implementation RT-MOSTRO that recommends optimal traffic light logics for 35 intersection in Medellín for the Secretary of Movility of the city.
+  * Supervisor: Jairo Espinosa
   
 Skills
 ======
