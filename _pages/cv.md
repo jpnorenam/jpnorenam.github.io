@@ -111,7 +111,7 @@ Work experience
 * *july 2019 - present: Research Assistant*
   * Laboratorio de gestión de sistemas en tiempo-real
   * **Real-Time Traffic Light Optimization in Urban Intersecctions**
-  * Duties included: Development and implementation RT-MOSTRO that recommends optimal traffic light logics for 35 intersection in Medellín for the Secretary of Movility of the city.
+  * Duties included: Development and implementation of a real-time traffic light logics recommendator for 35 intersection in Medellín for the Secretary of Movility of the city.
   * Supervisor: Jairo Espinosa
   
 Skills
