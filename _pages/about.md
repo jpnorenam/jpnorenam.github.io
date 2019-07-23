@@ -20,4 +20,5 @@ Current research projects
 * Virtual integration of the nodes LabGSTR, LabIEC61850 & -LinnoX- on the development of the Real-Time Cosimulation Laboratory for the scientific ecosystem [“Energética 2030”](http://informes.xm.com.co/gestion/2018/investigacion-innovacion-y-desarrollo-de-proyectos/Paginas/energetica-2030.aspx)
 * A Software-in-the-Loop Testbed Platform Implementation for New PMU-Based Wide Area Control Strategies for Future System Operation
 * Online Risk Assessment of Power System Transmission Lines Based on Multivariate Analysis of Lightning and Weather Data
+* Traffic Lights Optimization in Urban Intersections Based on Real-Time Information from Waze
 
