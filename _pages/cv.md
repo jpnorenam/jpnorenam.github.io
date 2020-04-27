@@ -92,7 +92,7 @@ redirect_from:
 Education
 ======
 * **B.S. in Electrical Engineering**, Universidad Nacional de Colombia, 2015-2020. *GPA: 4.3/5.0*
-* **M.Sc. in Electrical Engineering**, Universidad Nacional de Colombia, 2020-2022(expected). *Thesis proposal: "PMU Digital Twins for Applications in Power System Control Centres*
+* **M.Sc. in Electrical Engineering**, Universidad Nacional de Colombia, 2020-2022(expected). *Thesis proposal: "PMU Digital Twins for Applications in Power System Control Centres"*
 
 Work experience
 ======
