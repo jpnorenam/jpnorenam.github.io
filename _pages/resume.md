@@ -139,9 +139,16 @@ Work experience
 Skills
 ------
 
-* C/C++ | <html><body><div id="myProgress"><div id="cpp"></div></body></html>
+* C/C++
+<html>
+<body> 
+<div id="myProgress">
+  <div id="cp"></div>
+</div>
+</body>
+</html>
 
-* C#/.NET Framework |
+* C#/.NET Framework
 <html>
 <body> 
 <div id="myProgress">
@@ -150,7 +157,7 @@ Skills
 </body>
 </html>
  
-* Python |
+* Python
 <html>
 <body> 
 <div id="myProgress">
@@ -159,7 +166,7 @@ Skills
 </body>
 </html>
 
-* Matlab/Simulink |
+* Matlab/Simulink
 <html>
 <body> 
 <div id="myProgress">
@@ -168,7 +175,7 @@ Skills
 </body>
 </html>
 
-* OPAL RT-LAB Suite |
+* OPAL RT-LAB Suite
 <html>
 <body> 
 <div id="myProgress">
@@ -177,7 +184,7 @@ Skills
 </body>
 </html>
 
-* PowerFactory |
+* PowerFactory
 <html>
 <body> 
 <div id="myProgress">
@@ -186,7 +193,7 @@ Skills
 </body>
 </html>
 
-* openHistorian2 |
+* openHistorian2
 <html>
 <body> 
 <div id="myProgress">
@@ -195,7 +202,7 @@ Skills
 </body>
 </html>
 
-* RTOS (Linux PREEMPT_RT) |
+* RTOS (Linux PREEMPT_RT)
 <html>
 <body> 
 <div id="myProgress">
@@ -206,7 +213,7 @@ Skills
 </html>
 
 
-* ELK Stack |
+* ELK Stack
 <html>
 <body> 
 <div id="myProgress">
@@ -217,7 +224,7 @@ Skills
 </html>
 
 
-* InfluxDB & Grafana |
+* InfluxDB & Grafana
 <html>
 <body> 
 <div id="myProgress">
@@ -227,7 +234,7 @@ Skills
 </body>
 </html>
 
-* DevOps (Git, Vagrant & Ansible) |
+* DevOps (Git, Vagrant & Ansible)
 <html>
 <body> 
 <div id="myProgress">
