@@ -127,10 +127,9 @@ Education
 
 Work experience
 ------
-* Student Researcher & Contractor *february 2018 - present. Laboratorio de gestión de sistemas en tiempo-real, Facultad de Minas, Universidad Nacional de Colombia*
-  * Laboratorio de gestión de sistemas en tiempo-real, Facultad de Minas, Universidad Nacional de Colombia.
+* **Student Researcher & Contractor** *(february 2018 - present) at Laboratorio de gestión de sistemas en tiempo-real, Facultad de Minas, Universidad Nacional de Colombia.*
   * **Real-Time Power System State Estimator**
-    -* Duties included: Implementation of an online non-linear state estimator for the Colombian national power system operator -XM S.A E.S.P-.
+  ..* Duties included: Implementation of an online non-linear state estimator for the Colombian national power system operator -XM S.A E.S.P-.
   * Supervisor: Jairo Espinosa
 
 * *junary 2019 - present: Research Assistant*
