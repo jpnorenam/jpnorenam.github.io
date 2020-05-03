@@ -1,6 +1,5 @@
 ---
-title: "A software-in-the-loop testbed platform implementation for new PMU-based
-wide area control strategies for future system operation"
+title: "A software-in-the-loop testbed platform implementation for new PMU-based wide area control strategies for future system operation"
 collection: publications
 permalink: /publication/CIGRE2020Session_SIL
 date: pending
