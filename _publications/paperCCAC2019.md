@@ -1,5 +1,5 @@
 ---
-title: "\Optimal Assignment of Resources for Distributed Computing in Real-Time
+title: "Optimal Assignment of Resources for Distributed Computing in Real-Time
 Applications"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
