@@ -84,7 +84,7 @@ author:
   avatar           : "profile.png"
   bio              : "EE graduate student at Universidad Nacional de Colombia"
   location         : "Medellín, Colombia"
-  employer         : "Laboratory of real-time systems"
+  employer         : #
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=ujyRPFMAAAAJ&hl"
   email            : "jpnorenam@unal.edu.co"
