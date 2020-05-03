@@ -131,7 +131,7 @@ Work experience
 
 **UNPowerEstimator: Library for Power System State Estimation** | Devolpment and implementation of a .NET Framework Class Library for online non-linear state estimator for the Colombian national power system operator -XM-, including CIM standard files processing and GPA - Project Alpha adapters for the phasor data concentrator. | *Supervisor: Prof. Jairo Espinosa*
 **Storm Tracking for Minimization of Risk in Power System Operation Based on Real-Time Lighting Information** | Development of a software with tools that allows to take real-time decisions minimizing the risk over a power system operation based on thunderstorm following, grouping and processing. | *Supervisor: Prof. Ernesto Pérez*
-**Real-Time Cosimulation Laboratory for the Scientic Ecosystem "Energética 2030"** | Development and implementation of cosimulation laboratory as a service for the scientic ecosystem, that allows to perform real-time simulation of multi-domain systems including the penetration of distributed energy resources. | *Supervisor: Prof. Ernesto Pérez*
+**Real-Time Cosimulation Laboratory for the Scientic Ecosystem "Energética 2030"** | Development and implementation of a cosimulation laboratory as a service for the scientic ecosystem, that allows to perform real-time simulation of multi-domain systems including the penetration of distributed energy resources. | *Supervisor: Prof. Ernesto Pérez*
 **Intelligent Traffic Lights Programming Recommender Based on Real-Time Information** |Development of a software that combines AI and model based optimization, capable of finding the current traffic regime, based of patterns in the movility, and dynamically suggest the most convenient traffic lights coordinated plan. | *Supervisor: Prof. Jairo Espinosa*
   
 ---
@@ -139,7 +139,7 @@ Work experience
 Skills
 ------
 
-* C/C++
+* C/C++ |
 <html>
 <body> 
 <div id="myProgress">
@@ -148,7 +148,7 @@ Skills
 </body>
 </html> 
 
-* C#/.NET Framework
+* C#/.NET Framework |
 <html>
 <body> 
 <div id="myProgress">
@@ -157,7 +157,7 @@ Skills
 </body>
 </html>
  
-* Python
+* Python |
 <html>
 <body> 
 <div id="myProgress">
@@ -166,7 +166,7 @@ Skills
 </body>
 </html>
 
-* Matlab/Simulink
+* Matlab/Simulink |
 <html>
 <body> 
 <div id="myProgress">
@@ -175,7 +175,7 @@ Skills
 </body>
 </html>
 
-* OPAL RT-LAB Suite
+* OPAL RT-LAB Suite |
 <html>
 <body> 
 <div id="myProgress">
@@ -184,7 +184,7 @@ Skills
 </body>
 </html>
 
-* PowerFactory
+* PowerFactory |
 <html>
 <body> 
 <div id="myProgress">
@@ -193,7 +193,7 @@ Skills
 </body>
 </html>
 
-* openHistorian2
+* openHistorian2 |
 <html>
 <body> 
 <div id="myProgress">
@@ -202,7 +202,7 @@ Skills
 </body>
 </html>
 
-* RTOS (Linux PREEMPT_RT)
+* RTOS (Linux PREEMPT_RT) |
 <html>
 <body> 
 <div id="myProgress">
@@ -213,7 +213,7 @@ Skills
 </html>
 
 
-* ELK Stack
+* ELK Stack |
 <html>
 <body> 
 <div id="myProgress">
@@ -224,7 +224,7 @@ Skills
 </html>
 
 
-* InfluxDB & Grafana
+* InfluxDB & Grafana |
 <html>
 <body> 
 <div id="myProgress">
@@ -234,7 +234,7 @@ Skills
 </body>
 </html>
 
-* DevOps (Git, Vagrant & Ansible)
+* DevOps (Git, Vagrant & Ansible) |
 <html>
 <body> 
 <div id="myProgress">
