@@ -127,7 +127,7 @@ Education
 
 Work experience
 ------
-* **Student Researcher & Contractor** *(february 2018 - present) at Laboratorio de gestión de sistemas en tiempo-real, Facultad de Minas, Universidad Nacional de Colombia.*
+* **Student Researcher & Contractor** *at Laboratorio de gestión de sistemas en tiempo-real, Facultad de Minas, Universidad Nacional de Colombia. (february 2018 - present)*
 
 **UNPowerEstimator: Library for Power System State Estimation** | Devolpment and implementation of a .NET Framework Class Library for online non-linear state estimator for the Colombian national power system operator -XM-, including CIM standard files processing and GPA - Project Alpha adapters for the phasor data concentrator. | *Supervisor: Prof. Jairo Espinosa*
 **Storm Tracking for Minimization of Risk in Power System Operation Based on Real-Time Lighting Information** | Development of a software with tools that allows to take real-time decisions minimizing the risk over a power system operation based on thunderstorm following, grouping and processing. | *Supervisor: Prof. Ernesto Pérez*
