@@ -125,10 +125,10 @@ Education
 
 Work experience
 ======
-* *february 2018 - december 2018: Research Assistant*
+* *february 2018 - present: Student Researcher*
   * Laboratorio de gestión de sistemas en tiempo-real
   * **Real-Time Power System State Estimator**
-  * Duties included: Implementation of an online non-linear state estimator for the Colombian national power system operator -XM S.A E.S.P-.
+    -* Duties included: Implementation of an online non-linear state estimator for the Colombian national power system operator -XM S.A E.S.P-.
   * Supervisor: Jairo Espinosa
 
 * *junary 2019 - present: Research Assistant*
@@ -242,7 +242,7 @@ Skills
 </body>
 </html>
 
-* DevOps [Git, Vagrant & Ansible]
+* DevOps (Git, Vagrant & Ansible)
 <html>
 <body> 
 <div id="myProgress">
