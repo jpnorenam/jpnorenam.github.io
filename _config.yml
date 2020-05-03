@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "J. Noreña"
   avatar           : "profile.png"
-  bio              : "Electrical engineering undergraduate student at Universidad Nacional de Colombia"
+  bio              : "EE graduate student at Universidad Nacional de Colombia"
   location         : "Medellín, Colombia"
-  employer         : 
+  employer         : "Laboratory of real-time systems"
   pubmed           : 
-  googlescholar    : # pending "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=ujyRPFMAAAAJ&hl"
   email            : "jpnorenam@unal.edu.co"
   researchgate     : "https://www.researchgate.net/profile/Juan_Norena_Monsalve"
   uri              :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/jpnorenam/"
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
