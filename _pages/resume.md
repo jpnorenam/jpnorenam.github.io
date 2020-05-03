@@ -139,7 +139,7 @@ Work experience
 Skills
 ------
 
-* C/C++ | <html><body><div id="myProgress"><div id="cpp"></div></div></body></html>
+* C/C++ | <html><body><div id="myProgress"><div id="cpp"></div></body></html>
 
 * C#/.NET Framework |
 <html>
