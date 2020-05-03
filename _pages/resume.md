@@ -115,7 +115,9 @@ redirect_from:
 }
 </style>
 </html>
+
 ---
+
 Education
 ======
 * **B.S. in Electrical Engineering**, Universidad Nacional de Colombia, 2015-2020. *GPA: 4.3/5.0*
