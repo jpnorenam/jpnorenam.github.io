@@ -13,4 +13,4 @@ I am a Colombian M.Sc. EE student at the [Universidad Nacional de Colombia](http
 
 I am affiliated with the [Laboratory of Real-Time Systems](https://sites.google.com/unal.edu.co/lab-gstr), working under the direction of [Prof. Ernesto Pérez](https://scholar.google.es/citations?user=tUz1sE0AAAAJ&hl=es&oi=sra) and [Prof. Jairo Espinosa](https://scholar.google.es/citations?user=DhYW97UAAAAJ&hl=es&oi=sra) in research projects related with real-time cosimulation, risk assessment due to lightning, wide-area monitoring of power systems, and urban traffic control.
 
-Here is my [full resumé](https://jpnorenam.github.io/cv/) or [download the PDF version](https://jpnorenam.github.io/files/resume_2020a.pdf)
+Here is my [full resumé](https://jpnorenam.github.io/resume/) or [download the PDF version](https://jpnorenam.github.io/files/resume_2020a.pdf)
