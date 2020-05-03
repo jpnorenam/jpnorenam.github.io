@@ -143,7 +143,7 @@ Skills
 <html>
 <body> 
 <div id="myProgress">
-  <div id="cp"></div>
+  <div id="cpp"></div>
 </div>
 </body>
 </html>
