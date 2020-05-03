@@ -115,13 +115,13 @@ redirect_from:
 }
 </style>
 </html>
-
-##Education
+---
+Education
 ======
 * **B.S. in Electrical Engineering**, Universidad Nacional de Colombia, 2015-2020. *GPA: 4.3/5.0*
 * **M.Sc. in Electrical Engineering**, Universidad Nacional de Colombia, 2020-2022(expected). *Thesis proposal: "PMU Digital Twins for Applications in Power System Control Centres"*
 
-##Work experience
+Work experience
 ======
 * *february 2018 - december 2018: Research Assistant*
   * Laboratorio de gestión de sistemas en tiempo-real
@@ -142,7 +142,7 @@ redirect_from:
   * Duties included: Development and implementation of a real-time traffic light logics recommendator for 35 intersection in Medellín for the Secretary of Movility of the city.
   * Supervisor: Jairo Espinosa
   
-##Skills
+Skills
 ======
 
 * C/C++
@@ -250,7 +250,7 @@ redirect_from:
 </body>
 </html>
 
-##Publications
+Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
