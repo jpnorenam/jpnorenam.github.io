@@ -128,9 +128,10 @@ Education
 Work experience
 ------
 * **Student Researcher & Contractor** *(february 2018 - present) at Laboratorio de gestión de sistemas en tiempo-real, Facultad de Minas, Universidad Nacional de Colombia.*
-  * **UNPowerEstimator: Library for Power System State Estimation**: Devolpment and implementation of a .NET Framework Class Library for online non-linear state estimator for the Colombian national power system operator -XM-, including CIM standard files processing and GPA - Project Alpha adapters for the phasor data concentrator. | Supervisor: Prof. Jairo Espinosa
-  * **Real-Time Cosimulation Laboratory for the Scientic Ecosystem "Energética 2030"**: Development and implementation of cosimulation laboratory as a service for the scientic ecosystem, that allows to perform real-time simulation of multi-domain systems including the penetration of distributed energy resources. | Supervisor: Prof. Ernesto Pérez
-  * **Intelligent Traffic Lights Programming Recommender Based on Real-Time Information**: Development of a software that combines AI and model based optimization, capable of finding the current traffic regime, based of patterns in the movility, and dynamically suggest the most convenient traffic lights coordinated plan.
+  * **UNPowerEstimator: Library for Power System State Estimation**: Devolpment and implementation of a .NET Framework Class Library for online non-linear state estimator for the Colombian national power system operator -XM-, including CIM standard files processing and GPA - Project Alpha adapters for the phasor data concentrator. *Supervisor: Prof. Jairo Espinosa*
+  * **Storm Tracking for Minimization of Risk in Power System Operation Based on Real-Time Lighting Information**: Development of a software with tools that allows to take real-time decisions minimizing the risk over a power system operation based on thunderstorm following, grouping and processing. *Supervisor: Prof. Ernesto Pérez*
+  * **Real-Time Cosimulation Laboratory for the Scientic Ecosystem "Energética 2030"**: Development and implementation of cosimulation laboratory as a service for the scientic ecosystem, that allows to perform real-time simulation of multi-domain systems including the penetration of distributed energy resources. *Supervisor: Prof. Ernesto Pérez*
+  * **Intelligent Traffic Lights Programming Recommender Based on Real-Time Information**: Development of a software that combines AI and model based optimization, capable of finding the current traffic regime, based of patterns in the movility, and dynamically suggest the most convenient traffic lights coordinated plan. *Supervisor: Prof. Jairo Espinosa*
   
 ---
   
