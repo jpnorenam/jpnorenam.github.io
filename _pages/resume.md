@@ -116,6 +116,8 @@ redirect_from:
 </style>
 </html>
 
+[download PFD version](https://jpnorenam.github.io/files/resume_2020a.pdf)
+
 ---
 
 Education
