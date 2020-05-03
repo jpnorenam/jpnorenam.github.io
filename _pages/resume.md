@@ -69,8 +69,8 @@ redirect_from:
   color: white;
 }
 
-#pscad {
-  width: 40%;
+#rtos {
+  width: 50%;
   height: 5px;
   background-color: #4CAF50;
   text-align: center;
@@ -80,6 +80,33 @@ redirect_from:
 
 #opal {
   width: 40%;
+  height: 5px;
+  background-color: #4CAF50;
+  text-align: center;
+  line-height: 30px;
+  color: white;
+}
+
+#elk_stack {
+  width: 45%;
+  height: 5px;
+  background-color: #4CAF50;
+  text-align: center;
+  line-height: 30px;
+  color: white;
+}
+
+#influx_grafana{
+  width: 60%;
+  height: 5px;
+  background-color: #4CAF50;
+  text-align: center;
+  line-height: 30px;
+  color: white;
+}
+
+#devops{
+  width: 65%;
   height: 5px;
   background-color: #4CAF50;
   text-align: center;
@@ -118,22 +145,7 @@ Work experience
 Skills
 ======
 
-* C#/.NET Framework
-  * Grid Solution Framework
-  * ILNumerics
-  * Alglib 
-<html>
-<body> 
-<div id="myProgress">
-  <div id="netframework"></div>
-</div>
-</body>
-</html>
-
 * C/C++
-  * Linux PREEMPT_RT real-time applications
-  * POSIX API
-  * MPI
 <html>
 <body> 
 <div id="myProgress">
@@ -141,6 +153,15 @@ Skills
 </div>
 </body>
 </html> 
+
+* C#/.NET Framework
+<html>
+<body> 
+<div id="myProgress">
+  <div id="netframework"></div>
+</div>
+</body>
+</html>
  
 * Python
 <html>
@@ -160,7 +181,7 @@ Skills
 </body>
 </html>
 
-* OPAL RT-LAB
+* OPAL RT-LAB Suite
 <html>
 <body> 
 <div id="myProgress">
@@ -187,11 +208,43 @@ Skills
 </body>
 </html>
 
-* PSCAD
+* RTOS (Linux PREEMPT_RT)
 <html>
 <body> 
 <div id="myProgress">
-  <div id="pscad"></div>
+  <div id="rtos"></div>
+  <div style="margin-bottom: 40px;"></div>
+</div>
+</body>
+</html>
+
+
+* ELK Stack
+<html>
+<body> 
+<div id="myProgress">
+  <div id="elk_stack"></div>
+  <div style="margin-bottom: 40px;"></div>
+</div>
+</body>
+</html>
+
+
+* InfluxDB & Grafana
+<html>
+<body> 
+<div id="myProgress">
+  <div id="influx_grafana"></div>
+  <div style="margin-bottom: 40px;"></div>
+</div>
+</body>
+</html>
+
+* DevOps [Git, Vagrant & Ansible]
+<html>
+<body> 
+<div id="myProgress">
+  <div id="devops"></div>
   <div style="margin-bottom: 40px;"></div>
 </div>
 </body>
