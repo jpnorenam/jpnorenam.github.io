@@ -119,14 +119,16 @@ redirect_from:
 ---
 
 Education
-======
+------
 * **B.S. in Electrical Engineering**, Universidad Nacional de Colombia, 2015-2020. *GPA: 4.3/5.0*
 * **M.Sc. in Electrical Engineering**, Universidad Nacional de Colombia, 2020-2022(expected). *Thesis proposal: "PMU Digital Twins for Applications in Power System Control Centres"*
 
+---
+
 Work experience
-======
-* *february 2018 - present: Student Researcher*
-  * Laboratorio de gestión de sistemas en tiempo-real
+------
+* Student Researcher & Contractor *february 2018 - present. Laboratorio de gestión de sistemas en tiempo-real, Facultad de Minas, Universidad Nacional de Colombia*
+  * Laboratorio de gestión de sistemas en tiempo-real, Facultad de Minas, Universidad Nacional de Colombia.
   * **Real-Time Power System State Estimator**
     -* Duties included: Implementation of an online non-linear state estimator for the Colombian national power system operator -XM S.A E.S.P-.
   * Supervisor: Jairo Espinosa
@@ -144,8 +146,10 @@ Work experience
   * Duties included: Development and implementation of a real-time traffic light logics recommendator for 35 intersection in Medellín for the Secretary of Movility of the city.
   * Supervisor: Jairo Espinosa
   
+---
+  
 Skills
-======
+------
 
 * C/C++
 <html>
@@ -252,8 +256,10 @@ Skills
 </body>
 </html>
 
+---
+
 Publications
-======
+------
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
